@@ -1,0 +1,2 @@
+# stateless
+AngularJS + JavaEE application
